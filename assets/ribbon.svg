@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 579 600">
+  <g id="handbagLayer3" class="handbagLayer">
+    <image id="handbagLayer_Imagen" data-name="handbagLayer Imagen" width="772" height="800" transform="scale(0.75)" xlink:href="assets/ribbon1.png"/>
+  </g>
+  <g id="ribbonLayer" style="isolation: isolate">
+    <path d="M442.5,123.75l32.25,42.75c-7.53,17.47-30.43,21.61-43.5,33.75V201l1.5.75c13-2.93,42.71,5.16,57,8.25-.32,15.72-4.91,45.92-10.5,56.25-21.63.49-28.05-11.3-48.75-12.75v.75c16.87,38.19,58.81,70.06,79.5,108l-.75,3.75c-12.43-.26-26.82,0-34.5,5.25l-12,35.25L460.5,405c-2.77-9.23-9.05-14.4-13.5-22.5-12.17-22.14-20.87-46.32-36-69-4.17-6.25-11.8-14.44-15-23.25l-2.25.75c-5.17,42.15,3.65,77.58-5.25,120l-1.5.75c-7.22-3.45-21.58-15.38-28.5-14.25-14.35,2.09-20.83,15-33.75,19.5-.32-19.74,3.94-38.79,8.25-55.5l9.75-57.75c.38-3.43-2.77-1.11-2.25-3.75,1.77-8.95,6.8-23,7.5-36.75h-.75l-1.5,1.5c-17.95,9.42-28.46,40.12-53.25,41.25-3.59-10.42-30-33.67-27.75-41.25,9.08-3.63,53.21-27.57,61.5-37.5l-1.5-2.25c-15.33,2.71-43.42-3.14-66-9l12-50.25,1.5-.75C290,175,321,187.09,343.5,191.25c5.45,1,8.32-3.3,12-4.5,11.84-3.86,21.07-3.56,31.5-9Z" fill="none" fill-rule="evenodd"/>
+    <path d="M276.75,227.25l.75,1.5Z" fill="none" fill-rule="evenodd"/>
+    <path d="M278.25,232.5v0Z" fill="none" fill-rule="evenodd"/>
+    <path d="M274.5,284.25l2.25,1.5Z" fill="none" fill-rule="evenodd"/>
+    <path d="M296.25,319.5l1.5,3H297Z" fill="none" fill-rule="evenodd"/>
+  </g>
+  <g id="shadowLayer3" class="shadowLayer">
+    <image id="shadowLayer_Imagen" data-name="shadowLayer Imagen" width="336" height="392" transform="translate(258.75 123.75) scale(0.75)" xlink:href="assets/ribbon2.png"/>
+  </g>
+</svg>

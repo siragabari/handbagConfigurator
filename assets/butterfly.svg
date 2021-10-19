@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 584.25 600">
+  <g id="handbagLayer4" class="handbagLayer">
+    <image id="handbagLayer_Imagen" data-name="handbagLayer Imagen" width="779" height="800" transform="scale(0.75)" xlink:href="assets/butterfly1.png"/>
+  </g>
+  <g id="butterflyLayer" style="isolation: isolate">
+    <path d="M244.5,239.25H249c4.95,6.8,19.05,10.43,21.75,23.25l6.75,1.5c8.36-6.35,16.95-12.18,30-14.25l3,3.75-3,3.75c7.63.92,12.84,3.51,18,6.75l1.5,3.75c-2.84,5.31-6,3.7-9.75,7.5-5.55,5.67-7.25,14.49-13.5,19.5,3.41,5.19,10.95,26,9.75,30.75L309,330c-15,.08-34.36-9.3-36.75-22.5l-5.25,3-2.25-4.5-12,9c-4.64,1.19-33.07.2-36-1.5L216,306l18.75-21a179.68,179.68,0,0,1-16.5-37.5l3-2.25c16.71-13.08,43.69,13.21,47.25,23.25h.75l-.75-2.25c1.13-13-16.95-16.31-24.75-23.25Z" fill="none" fill-rule="evenodd"/>
+    <path d="M299.25,255.75C292.53,260.4,284,260.69,279,267l.75,1.5c7.87-4.1,18.54-7.52,25.5-12Z" fill="none" fill-rule="evenodd"/>
+    <path d="M243,280.5v3.75c4.12.69,17.72,4.68,21-.75Z" fill="none" fill-rule="evenodd"/>
+    <path d="M276.75,285v3l18.75,3.75.75-3h-1.5Z" fill="none" fill-rule="evenodd"/>
+  </g>
+  <g id="shadowLayer4" class="shadowLayer">
+    <image id="shadowLayer_Imagen" data-name="shadowLayer Imagen" width="150" height="123" transform="translate(215.25 238.5) scale(0.75)" xlink:href="assets/butterfly2.png"/>
+  </g>
+</svg>

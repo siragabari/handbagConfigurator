@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 584.25 600">
+  <g id="handbagLayer1" class="handbagLayer">
+    <image id="handbagLayer_Imagen" data-name="handbagLayer Imagen" width="779" height="800" transform="scale(0.75)" xlink:href="assets/keychain1.png"/>
+  </g>
+  <g id="keychainLayer" style="isolation: isolate">
+    <path d="M516,383.25h8.25c5.29,2.62,6.23,9.8,11.25,9.75-1.06,7.29,9.56,10.14,7.5,20.25-.59,2.91-3.54,4.46-4.5,8.25l.75.75c7.31-.71,13.29-.05,16.5,5.25,1.68,2.26,3.14,5.59,2.25,8.25-2.63,6.51-7.56,8.14-13.5,11.25,2.31,9,9.31,13.59,2.25,23.25C539,472.3,535,469.72,528,468l-.75.75c.31,8.75-1.38,11.77-4.5,16.5-3,.94-7,2.31-10.5.75-5.43-2.58-6-7.2-9.75-11.25-7.32,1.33-17.61,10.56-23.25.75-3.81-6.38.68-13.84,3-18.75l-.75-.75c-11.68.47-14.53-1.67-19.5-7.5l.75-8.25c3.87-5.24,7.74-6.16,15-8.25v-2.25c-4.2-2.81-11.17-9.26-7.5-17.25,5.11-11.79,17.35-.7,23.25-3-.21-16.66,7.51-13.37,14.25-21.75,3.85,2.29,4.56,2.27,8.25,0Z" fill="none" fill-rule="evenodd"/>
+    <path d="M504.75,423,495,432.75c-.29,7.4.51,11.68,3,15.75l4.5,3,13.5-.75C529.37,441.71,524.57,422.35,504.75,423Z" fill="none" fill-rule="evenodd"/>
+  </g>
+  <g id="shadowLayer1" class="shadowLayer">
+    <image id="shadowLayer_Imagen" data-name="shadowLayer Imagen" width="130" height="203" transform="translate(461.25 335.25) scale(0.75)" xlink:href="assets/keychain2.png"/>
+  </g>
+</svg>

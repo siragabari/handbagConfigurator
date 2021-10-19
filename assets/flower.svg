@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 579.75 600">
+  <g id="handbagLayer5" class="handbagLayer">
+    <image id="handbagLayer_Imagen" data-name="handbagLayer Imagen" width="773" height="800" transform="scale(0.75)" xlink:href="assets/flower1.png"/>
+  </g>
+  <g id="flowerLayer" style="isolation: isolate">
+    <path d="M372,267l19.5,1.5c5,2.26,12.52,9,18,12.75,4.77,3.23,8.12,12.9,11.25,18,7.13,11.63,24.85,17.72,30,29.25,7.95,17.81,4,29.09,2.25,46.5-1.65,16,10.35,22.84-7.5,35.25-13.4,9.32-41.51,3.76-63,8.25-9.39,2-23.37,9.92-36,7.5-13.91-2.66-15.77-9.07-24.75-14.25l-15.75-3c-1.06-.4-24.21-20.73-24.75-21.75-6.46-12.34,2.1-21.72.75-31.5-.39-2.82-4.53-5.06-3-10.5l7.5-16.5c1.87-8.89-5.76-12.63-2.25-21,7.2-16.09,24.51-19.57,45.75-21.75l13.5.75C353,281.9,362.61,272.8,372,267Z" fill="none" fill-rule="evenodd"/>
+  </g>
+  <g id="shadowLayer5" class="shadowLayer">
+    <image id="shadowLayer_Imagen" data-name="shadowLayer Imagen" width="271" height="269" transform="translate(253.5 248.25) scale(0.75)" xlink:href="assets/flower2.png"/>
+  </g>
+</svg>
